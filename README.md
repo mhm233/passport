@@ -91,7 +91,7 @@ This is a helper package to compile Spruce DIDKit and export functions for use i
 
 Holds the Pulumi deployment configuration for this repository. [README](infra/README.md)
 
-## schemas
+## schemas.
 
 Ceramic schemas and model definitions, and scripts for creating and publishing these to the Ceramic Network. [README](schemas/README.md)
 
